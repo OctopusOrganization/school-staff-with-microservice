@@ -2,7 +2,7 @@
 # Service registers under this name
 spring:
   application:
-    name: Movie-Service
+    name: Movies-Service
 
 # Discovery Server Access
 eureka:
