@@ -1,6 +1,6 @@
-package cont;
+package com.movies.controller;
 
-import com.metin.microservice.example.domain.Movie;
+import com.movies.entity.Movie;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
