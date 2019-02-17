@@ -1,4 +1,4 @@
-package entity;
+package com.movies.entity;
 
 public class Movie {
 

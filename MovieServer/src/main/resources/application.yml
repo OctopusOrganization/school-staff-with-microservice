@@ -1,0 +1,11 @@
+### Spring properties
+# Service registers under this name
+spring:
+  application:
+    name: Movie-Service
+
+# Discovery Server Access
+eureka:
+    client:
+      serviceUrl:
+        defaultZone: http://localhost:1111/eureka/
