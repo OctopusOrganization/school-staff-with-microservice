@@ -5,7 +5,7 @@
 
 	<groupId>com.jcombat</groupId>
 	<artifactId>ProfileMicroserviceConsumer</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>git commit -am  "<commit message>"
 	<packaging>jar</packaging>
 
 	<name>ProfileMicroserviceConsumer</name>
