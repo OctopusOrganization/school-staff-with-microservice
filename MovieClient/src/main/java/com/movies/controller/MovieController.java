@@ -20,7 +20,7 @@ public class MovieController {
 
     @GetMapping("/")
     public String handleRequest(Model model) {
-
+        System.out.println("Girdiiii");
         List<ServiceInstance> instances = discoveryClient.getInstances("Movie-Service");
         if (instances != null && !instances.isEmpty()) {
             ServiceInstance serviceInstance = instances.get(0);
