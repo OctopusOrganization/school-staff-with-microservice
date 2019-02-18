@@ -1,4 +1,4 @@
-package com.movie.controller;
+package com.movies.controller;
 
 import com.movies.entity.Movie;
 import org.springframework.web.bind.annotation.GetMapping;
