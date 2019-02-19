@@ -4,8 +4,9 @@
 <body>
 
 <b>
-<h2>Film Listesi</h2>
+<h2>Film Listesi2</h2>
 -------------------------------------
+<p>${result}</p>
 
 <div th:each="movie : ${result}">
     <p th:text="${movie.name}" />
